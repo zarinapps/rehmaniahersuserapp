@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 ThemeData dark = ThemeData(
   fontFamily: AppConstants.fontFamily,
-  primaryColor: const Color(0xFF9675c4),
+  primaryColor: const Color(0xFF9dd273),
   secondaryHeaderColor: const Color(0xFFefe6fc),
   brightness: Brightness.dark,
   cardColor: const Color(0xFF29292D),
@@ -16,8 +16,8 @@ ThemeData dark = ThemeData(
     brightness: Brightness.dark,
     background: const Color(0xFF212121),
     onBackground: const Color(0xFFC3CAD9),
-    primary: const Color(0xFF9675c4),
-    onPrimary: const Color(0xFF9675c4),
+    primary: const Color(0xFF9dd273),
+    onPrimary: const Color(0xFF9dd273),
     secondary: const Color(0xFFefe6fc),
     onSecondary: const Color(0xFFefe6fc),
     error: Colors.redAccent,

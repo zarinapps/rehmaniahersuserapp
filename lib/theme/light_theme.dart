@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 ThemeData light = ThemeData(
   fontFamily: AppConstants.fontFamily,
-  primaryColor: const Color(0xFF562E9C),
+  primaryColor: const Color(0xFF006600),
   secondaryHeaderColor: const Color(0xFFEFE6FE),
   brightness: Brightness.light,
   cardColor: Colors.white,
@@ -17,8 +17,8 @@ ThemeData light = ThemeData(
   colorScheme: ColorScheme(
     background: const Color(0xFFFCFCFC),
     brightness: Brightness.light,
-    primary: const Color(0xFF562E9C),
-    onPrimary: const Color(0xFF562E9C),
+    primary: const Color(0xFF006600),
+    onPrimary: const Color(0xFF006600),
     secondary: const Color(0xFFEFE6FE),
     onSecondary: const Color(0xFFEFE6FE),
     error: Colors.redAccent,

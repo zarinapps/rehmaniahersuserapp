@@ -3,11 +3,11 @@ import 'package:hexacom_user/common/enums/app_mode.dart';
 import 'package:hexacom_user/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'HexaCom';
-  static const double appVersion = 7.4;
+  static const String appName = 'Rehmania Herbs';
+  static const double appVersion = 1.0;
   static const AppMode appMode = AppMode.release;
   static const String fontFamily = 'Exo';
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'https://rehmaniaherbs.com/zadmin';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
   static const String latestProductUri = '/api/v1/products/latest';

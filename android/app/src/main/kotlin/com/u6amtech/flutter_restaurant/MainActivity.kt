@@ -1,4 +1,4 @@
-package com.sixamtech.hexacom_user
+package rehmaniaherbs.zarin.solutions
 
 import io.flutter.embedding.android.FlutterActivity
 
